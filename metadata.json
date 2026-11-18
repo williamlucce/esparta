@@ -2,5 +2,5 @@
   "name": "Esparta Imobiliária",
   "description": "Portal imobiliário da Esparta Imobiliária para compra, venda e avaliação de imóveis em Teresina, Altos, Demerval Lobão e Timon, com foco em empreendimentos habitacionais e Minha Casa Minha Vida.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_API"]
 }
